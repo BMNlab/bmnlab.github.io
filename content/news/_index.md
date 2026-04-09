@@ -1,5 +1,14 @@
-+++
-date = '2026-04-08T21:48:56-04:00'
-draft = true
-title = 'News'
-+++
+---
+title: "News"
+layout: "list"
+summary: " "
+cascade:
+  layout: "compact"
+  showDate: true
+  showAuthor: false
+  showReadingTime: false
+  showPagination: false
+  showTaxonomies: false
+---
+
+Stay up to date with the latest happenings at the Brain Mapping and NeuroImaging Lab.
