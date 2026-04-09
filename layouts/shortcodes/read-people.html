@@ -1,0 +1,6 @@
+{{ $role := .Get "role" }}
+{{ range (where .Site.RegularPages "Section" "people") }}
+    {{ if eq .Params.role $role }}
+        {{ .Content }}
+    {{ end }}
+{{ end }}

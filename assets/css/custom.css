@@ -1,0 +1,48 @@
+/* Container for the team members */
+.people-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Individual card layout */
+.person-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Perfect Circles - No Zoom/Distortion */
+.person-card img {
+    width: 120px !important;
+    height: 120px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    border: 2px solid #eee;
+}
+
+/* Text styling */
+.person-info a {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: var(--primary-color, #007bff);
+}
+
+.person-info p {
+    margin: 0;
+    color: #666;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    .person-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    .person-info {
+        align-items: center;
+    }
+}
