@@ -132,3 +132,20 @@
 .research-card {
     -webkit-tap-highlight-color: transparent;
 }
+
+/* Style for the Google Scholar link on the Publications page */
+.single a[href*="scholar.google"] {
+    display: inline-block;
+    background-color: var(--primary-color, #007bff);
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+    transition: background-color 0.2s;
+}
+
+.single a[href*="scholar.google"]:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
