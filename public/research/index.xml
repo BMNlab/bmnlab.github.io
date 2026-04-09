@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on BMN Lab</title>
+    <link>//localhost:1313/research/</link>
+    <description>Recent content in Research on BMN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 BMN Lab</copyright>
+    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Harmonization</title>
+      <link>//localhost:1313/research/harmonization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/research/harmonization/</guid>
+      <description>Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/research/harmonization/featured.png" />
+    </item>
+    
+    <item>
+      <title>Image Registration</title>
+      <link>//localhost:1313/research/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/research/registration/</guid>
+      <description>Advanced algorithms for precise spatial alignment of brain images across different subjects and modalities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/research/registration/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
