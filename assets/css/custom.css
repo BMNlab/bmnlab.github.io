@@ -121,3 +121,14 @@
     object-fit: contain !important; /* This forces the WHOLE image to show */
     padding: 15px; /* Adds a nice margin so the image doesn't touch the edges */
 }
+
+/* Force project titles to stay fully opaque on mobile */
+.card-content h3 {
+    opacity: 1 !important;
+    -webkit-text-fill-color: initial; /* Overrides iOS Safari text fading */
+}
+
+/* Optional: Prevent the whole card from flashing grey when tapped on mobile */
+.research-card {
+    -webkit-tap-highlight-color: transparent;
+}
