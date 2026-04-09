@@ -16,9 +16,24 @@
   weight = 10
 
 [[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 30
+
+[[main]]
   name = "People"
   pageRef = "people"
-  weight = 20
+  weight = 40
+
+[[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 50
 
 #[[main]]
 #  name = "Blog"
