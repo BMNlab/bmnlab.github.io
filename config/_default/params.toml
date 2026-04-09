@@ -44,6 +44,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
   showLogo = true
   logo = "img/bmn-logo.png"
+  showSearch = false
 
 [appearance]
   defaultAppearance = "light" 
