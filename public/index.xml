@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain Mapping and NeuroImaging Lab on BMN Lab</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Brain Mapping and NeuroImaging Lab on BMN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 BMN Lab</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Harmonization</title>
-      <link>//localhost:1313/research/harmonization/</link>
+      <link>http://localhost:1313/research/harmonization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/research/harmonization/</guid>
+      <guid>http://localhost:1313/research/harmonization/</guid>
       <description>Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/research/harmonization/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/harmonization/featured.png" />
     </item>
     
     <item>
       <title>Image Registration</title>
-      <link>//localhost:1313/research/registration/</link>
+      <link>http://localhost:1313/research/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/research/registration/</guid>
+      <guid>http://localhost:1313/research/registration/</guid>
       <description>Advanced algorithms for precise spatial alignment of brain images across different subjects and modalities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/research/registration/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/registration/featured.png" />
     </item>
     
     <item>
       <title>BMN Lab Website is Live</title>
-      <link>//localhost:1313/news/website-launch/</link>
+      <link>http://localhost:1313/news/website-launch/</link>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/news/website-launch/</guid>
+      <guid>http://localhost:1313/news/website-launch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dulaj and Sumonta have joined the BMN Lab</title>
-      <link>//localhost:1313/news/new-students-2026/</link>
+      <link>http://localhost:1313/news/new-students-2026/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/news/new-students-2026/</guid>
+      <guid>http://localhost:1313/news/new-students-2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bramish Qamar Chandio</title>
-      <link>//localhost:1313/people/chandio/</link>
+      <link>http://localhost:1313/people/chandio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/chandio/</guid>
+      <guid>http://localhost:1313/people/chandio/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/people/chandio/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/people/chandio/featured.png" />
     </item>
     
     <item>
       <title>Dulaj Dasanayake</title>
-      <link>//localhost:1313/people/dulaj/</link>
+      <link>http://localhost:1313/people/dulaj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/dulaj/</guid>
+      <guid>http://localhost:1313/people/dulaj/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/people/dulaj/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/people/dulaj/featured.jpeg" />
     </item>
     
     <item>
       <title>Sumonta Nandy Amit</title>
-      <link>//localhost:1313/people/sumonta/</link>
+      <link>http://localhost:1313/people/sumonta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/people/sumonta/</guid>
+      <guid>http://localhost:1313/people/sumonta/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/people/sumonta/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/people/sumonta/featured.jpeg" />
     </item>
     
   </channel>

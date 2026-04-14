@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on BMN Lab</title>
-    <link>//localhost:1313/news/</link>
+    <link>http://localhost:1313/news/</link>
     <description>Recent content in News on BMN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 BMN Lab</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BMN Lab Website is Live</title>
-      <link>//localhost:1313/news/website-launch/</link>
+      <link>http://localhost:1313/news/website-launch/</link>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/news/website-launch/</guid>
+      <guid>http://localhost:1313/news/website-launch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dulaj and Sumonta have joined the BMN Lab</title>
-      <link>//localhost:1313/news/new-students-2026/</link>
+      <link>http://localhost:1313/news/new-students-2026/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/news/new-students-2026/</guid>
+      <guid>http://localhost:1313/news/new-students-2026/</guid>
       <description></description>
       
     </item>
