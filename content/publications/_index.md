@@ -137,10 +137,10 @@ showAuthor: false
     [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Pandora:+4-D+white+matter+bundle+population-based+atlases+derived+from+diffusion+MRI+fiber+tractography)
 
 * Schilling, K. G., Rheault, F., Petit, L., Hansen, C. B., Nath, V., Yeh, F., Girard, G., Barakovic, M., Rafael-Patino, J., Yu, T., et al. (2021). "Tractography dissection variability: What happens when 42 groups dissect 14 white matter bundles on the same dataset?" *NeuroImage*, 243, 118502.
-    [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Tractography+dissection+variability:+What+happens+when+42+groups+dissect+14+white+matter+bundles+on+the+same+dataset)
+    [<kbd>Scholar</kbd>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d79TnioAAAAJ&citation_for_view=d79TnioAAAAJ:Tyk-4Ss8FVUC)
 
 * Kruper, J., Yeatman, J. D., Richie-Halford, A., Bloom, D., Grotheer, M., Caffarra, S., Kiar, G., Karipidis, I. I., Roy, E., **Chandio, B. Q.**, et al. (2021). "Evaluating the reliability of human brain white matter tractometry." *Aperture neuro*, 1(1), 10–52294.
-    [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Evaluating+the+reliability+of+human+brain+white+matter+tractometry)
+    [<kbd>Scholar</kbd>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d79TnioAAAAJ&citation_for_view=d79TnioAAAAJ:W7OEmFMy1HYC)
 
 * Gau, R., Noble, S., Heuer, K., Bottenhorn, K. L., Bilgin, I. P., Yang, Y., Huntenburg, J. M., Bayer, J. M., Bethlehem, R. A., Rhoads, S. A., et al. (2021). "Brainhack: Developing a culture of open, inclusive, community-driven neuroscience." *Neuron*, 109(11), 1769–1775.
     [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Brainhack:+Developing+a+culture+of+open,+inclusive,+community-driven+neuroscience)
@@ -169,10 +169,10 @@ showAuthor: false
     [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Visualizing+4,230+White+Matter+Tracts+at+Once)
 
 * Hansen, C., Yang, Q., Rheault, F., **Qamar, B.**, Williams, O., Resnick, S., Garyfallidis, E., Anderson, A. W., Descoteaux, M., Landman, B. A., et al. "Learning white matter fingerprints from structural information."
-    [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Learning+white+matter+fingerprints+from+structural+information)
+    [<kbd>Scholar</kbd>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d79TnioAAAAJ&cstart=20&pagesize=80&citation_for_view=d79TnioAAAAJ:_kc_bZDykSQC)
 
 * Yang, Q., Hansen, C., Rheault, F., **Qamar, B.**, Williams, O., Resnick, S., Garyfallidis, E., Anderson, A. W., Descoteaux, M., Landman, B. A., et al. "Mapping white matter specificity captured by diffusion tractography through deep learning on structural MRI."
-    [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=Mapping+white+matter+specificity+captured+by+diffusion+tractography+through+deep+learning+on+structural+MRI)
+    [<kbd>Scholar</kbd>](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d79TnioAAAAJ&pagesize=80&citation_for_view=d79TnioAAAAJ:4TOpqqG69KYC)
 
 * **Chandio, B. Q.**, Thomopoulos, S. I., Thompson, P. M., Harezlak, J., & Garyfallidis, E. "BUAN 2.0, streamlines as functions, nonlinear registration, and subdivision of bundles for advanced tractometry."
     [<kbd>Scholar</kbd>](https://scholar.google.com/scholar?q=BUAN+2.0,+streamlines+as+functions,+nonlinear+registration,+and+subdivision+of+bundles+for+advanced+tractometry)
