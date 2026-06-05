@@ -1,0 +1,65 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+
+<div class="bmn-home">
+
+  <!-- ══ HERO ══ -->
+  <section class="bmn-hero">
+
+    {{ with resources.Get "img/bmn-logo.png" }}
+      {{ $logo := . }}
+      {{ if not $disableImageOptimization }}
+        {{ $logo = .Resize "700x png" }}
+      {{ end }}
+      <img src="{{ $logo.RelPermalink }}" alt="BMN Lab Logo" class="bmn-hero-logo">
+    {{ end }}
+
+    <div class="bmn-hero-affil">West Virginia University</div>
+    <h1 class="bmn-hero-title"><span class="bmn-accent">B</span>rain <span class="bmn-accent">M</span>apping &amp; <span class="bmn-accent">N</span>euroImaging Lab</h1>
+    <p class="bmn-hero-tagline">
+      We develop advanced computational frameworks for <strong>Diffusion MRI</strong>,
+      white matter tractography, and brain connectivity mapping.
+    </p>
+
+  </section>
+
+  <!-- ══ RESEARCH FOCUS — pulled from content/research/* ══ -->
+  {{ $allProjects := where .Site.RegularPages "Params.role" "project" }}
+  {{ $projects := sort $allProjects "Params.weight" }}
+  {{ if $projects }}
+  <section class="bmn-focus-section">
+    <div class="bmn-section-header">
+      <p class="bmn-section-eyebrow">What We Do</p>
+      <h2 class="bmn-section-title">Research Focus Areas</h2>
+      <div class="bmn-section-divider"></div>
+    </div>
+    <div class="bmn-focus-grid">
+      {{ range $projects }}
+      <a href="{{ .RelPermalink }}" class="bmn-focus-card">
+        <div class="bmn-focus-accent"></div>
+        <div class="bmn-focus-body">
+          {{ with .Params.tag }}<div class="bmn-focus-tag">{{ . }}</div>{{ end }}
+          <h3>{{ .Title }}</h3>
+          {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+          <span class="bmn-focus-link">Explore &rarr;</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- ══ LATEST NEWS — most recent item from content/news/* ══ -->
+  {{ $allNews := where .Site.RegularPages "Section" "news" }}
+  {{ $newsPages := sort $allNews "Date" "desc" }}
+  {{ if $newsPages }}
+  {{ $latest := index $newsPages 0 }}
+  <section class="bmn-news-strip">
+    <div class="bmn-news-strip-inner">
+      <span class="bmn-news-label">Latest News</span>
+      <span class="bmn-news-text">{{ $latest.Title }}</span>
+      <a href="/news/" class="bmn-news-link">See all &rarr;</a>
+    </div>
+  </section>
+  {{ end }}
+
+</div>
