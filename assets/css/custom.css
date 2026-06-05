@@ -572,6 +572,11 @@
 /* ════════════════════════════════════════════════
    NEWS LIST
    ════════════════════════════════════════════════ */
+
+#main-content > header > h1 {
+  margin-top: 0 !important;
+}
+
 .news-container .summary {
   display: none;
 }
