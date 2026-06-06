@@ -7,7 +7,70 @@ showAuthor: false
 
 **[View Full Profile on Google Scholar →](https://scholar.google.com/citations?user=d79TnioAAAAJ&hl=en)**
 
----
+<div class="pub-search-wrap">
+  <input id="pub-search" type="search" placeholder="Search publications by title, author, journal, or year…" autocomplete="off">
+  <span id="pub-count"></span>
+</div>
+<div id="pub-no-results" style="display:none">No publications match your search.</div>
+
+<script>
+(function () {
+  function init() {
+    var input = document.getElementById('pub-search');
+    var counter = document.getElementById('pub-count');
+    var noResults = document.getElementById('pub-no-results');
+    if (!input) return;
+
+    // Collect all year sections (h3) and their following ul/li items
+    var content = input.closest('.prose') || input.parentElement.parentElement;
+    var items = Array.from(content.querySelectorAll('li'));
+    var sections = Array.from(content.querySelectorAll('h3'));
+    counter.textContent = items.length + ' publications';
+
+    input.addEventListener('input', function () {
+      var q = input.value.trim().toLowerCase();
+      var visible = 0;
+
+      items.forEach(function (li) {
+        var text = li.textContent.toLowerCase();
+        var show = !q || text.indexOf(q) !== -1;
+        li.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      // Hide year headings and their hr if all items under them are hidden
+      sections.forEach(function (h3) {
+        var ul = h3.nextElementSibling;
+        // walk siblings until next h3 or hr
+        var sibling = h3.nextElementSibling;
+        var hasVisible = false;
+        while (sibling && sibling.tagName !== 'H3') {
+          if (sibling.tagName === 'UL' || sibling.tagName === 'OL') {
+            var lis = sibling.querySelectorAll('li');
+            lis.forEach(function (li) { if (li.style.display !== 'none') hasVisible = true; });
+          }
+          sibling = sibling.nextElementSibling;
+        }
+        h3.style.display = hasVisible || !q ? '' : 'none';
+        // hide the <hr> before the h3 too if h3 is hidden
+        var prev = h3.previousElementSibling;
+        if (prev && prev.tagName === 'HR') prev.style.display = hasVisible || !q ? '' : 'none';
+      });
+
+      counter.textContent = q ? visible + ' match' + (visible !== 1 ? 'es' : '') : items.length + ' publications';
+      noResults.style.display = visible === 0 && q ? '' : 'none';
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
+
 
 ### 2026
 
