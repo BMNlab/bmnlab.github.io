@@ -1,7 +1,7 @@
 ---
 title: "Bundle Analytics (BUAN)"
 role: "project"
-weight: 3
+weight: 1
 tag: "Bundle Analytics"
 summary: "A computational framework for investigating the shapes and along-tract profiles of white matter pathways across populations."
 showDate: false

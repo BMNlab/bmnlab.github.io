@@ -1,7 +1,7 @@
 ---
 title: "Data Harmonization"
 role: "project"
-weight: 4
+weight: 3
 tag: "Data Harmonization"
 image: "featured.png"
 summary: "Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets."
