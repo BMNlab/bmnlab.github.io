@@ -1,7 +1,7 @@
 ---
 title: "BundleWarp: Streamline-Based Nonlinear Registration of White Matter Tracts"
 role: "project"
-weight: 1
+weight: 2
 tag: "Tract Registration"
 summary: "A streamline-specific nonlinear registration method that intelligently warps white matter bundles while preserving their topological structure, outperforming both linear and image-based registration approaches."
 showDate: false
