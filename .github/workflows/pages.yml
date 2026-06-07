@@ -41,6 +41,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Fetch publications from Semantic Scholar
+        continue-on-error: true
         run: python3 scripts/fetch_publications.py
       - name: Setup Pages
         id: pages
