@@ -1,0 +1,2598 @@
+{
+  "lastUpdated": "2026-06-07",
+  "authorId": "1752544717",
+  "papers": [
+    {
+      "title": "SPECTRA: Spatial Inference for Tractometry Toward Precision Mapping of White Matter Microstructure",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Iyad Ba Gari",
+          "authorId": "2210919051"
+        },
+        {
+          "name": "Jonathan Davis Alibrando",
+          "authorId": "2377957468"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Kenny Liou",
+          "authorId": "2378918237"
+        },
+        {
+          "name": "Sunanda Somu",
+          "authorId": "2260352422"
+        },
+        {
+          "name": "Hannah Yoo",
+          "authorId": "2379016186"
+        },
+        {
+          "name": "Yuhan Shuai",
+          "authorId": "2377957633"
+        },
+        {
+          "name": "S. Chehrzadeh",
+          "authorId": "2283312985"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        }
+      ],
+      "year": 2026,
+      "venue": "bioRxiv",
+      "doi": "10.64898/2026.05.08.723622",
+      "url": "https://doi.org/10.64898/2026.05.08.723622",
+      "pdf": "",
+      "publicationDate": "2026-05-13",
+      "paperId": "fc7facad785f64cbb11490cb4fc639f76e1daf73"
+    },
+    {
+      "title": "84. Tract Segment-Level White-Matter Microstructural Alterations in Bipolar Disorder Revealed by Large-Scale Tractometry: An International Study Across 6 Enigma-Bipolar Sites",
+      "authors": [
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Melody J. Y. Kang",
+          "authorId": "2294342233"
+        },
+        {
+          "name": "Yanghee Im",
+          "authorId": "2328665331"
+        },
+        {
+          "name": "G. McPhilemy",
+          "authorId": "11025919"
+        },
+        {
+          "name": "F. Martyn",
+          "authorId": "1482570330"
+        },
+        {
+          "name": "G. Roberts",
+          "authorId": "2239651517"
+        },
+        {
+          "name": "Brian Hallahan",
+          "authorId": "2388308589"
+        },
+        {
+          "name": "U. Dannlowski",
+          "authorId": "3161510"
+        },
+        {
+          "name": "D. Grotegerd",
+          "authorId": "2519785"
+        },
+        {
+          "name": "T. Kircher",
+          "authorId": "2246485895"
+        },
+        {
+          "name": "F. Thomas-Odenthal",
+          "authorId": "1948081690"
+        },
+        {
+          "name": "B. C. Haarman",
+          "authorId": "2427723801"
+        },
+        {
+          "name": "P. Mitchell",
+          "authorId": "2239682790"
+        },
+        {
+          "name": "C. McDonald",
+          "authorId": "2257470017"
+        },
+        {
+          "name": "D. Cannon",
+          "authorId": "1891169"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Ole A. Andreassen",
+          "authorId": "2298774735"
+        },
+        {
+          "name": "C. Ching",
+          "authorId": "40543893"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2344272939"
+        }
+      ],
+      "year": 2026,
+      "venue": "Biological Psychiatry",
+      "doi": "10.1016/j.biopsych.2026.03.318",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.318",
+      "pdf": "",
+      "publicationDate": "2026-05-01",
+      "paperId": "3bb2cb20d4fada6ab376327b4659b8eea93d7f7b"
+    },
+    {
+      "title": "74. White Matter Alterations in Autism: Insights From Diffusion MRI and Tractography",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "Chloe Retika",
+          "authorId": "2354252095"
+        },
+        {
+          "name": "Nicole Lu",
+          "authorId": "2220298121"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Paul M Thompson",
+          "authorId": "2333374017"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        }
+      ],
+      "year": 2026,
+      "venue": "Biological Psychiatry",
+      "doi": "10.1016/j.biopsych.2026.03.308",
+      "url": "https://doi.org/10.1016/j.biopsych.2026.03.308",
+      "pdf": "",
+      "publicationDate": "2026-05-01",
+      "paperId": "e0af28e7646766eacbe0b35efd3ccb2d0fe9677a"
+    },
+    {
+      "title": "Along-Tract Microstructural Alterations Associated with Stimulant Misuse Localized using Diffusion MRI Tractometry",
+      "authors": [
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Iyad Ba Gari",
+          "authorId": "2210919051"
+        },
+        {
+          "name": "Jonathan Davis Alibrando",
+          "authorId": "2377957468"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "Anthony C. Juliano",
+          "authorId": "2343673816"
+        },
+        {
+          "name": "Devarshi Pancholi",
+          "authorId": "2185810412"
+        },
+        {
+          "name": "Gwenyth Roundy",
+          "authorId": "2328822387"
+        },
+        {
+          "name": "N. Canessa",
+          "authorId": "2266311814"
+        },
+        {
+          "name": "Eduardo Garza-Villarreal",
+          "authorId": "2082826096"
+        },
+        {
+          "name": "Hugh Garavan",
+          "authorId": "2292013283"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2292009091"
+        }
+      ],
+      "year": 2026,
+      "venue": "bioRxiv",
+      "doi": "10.64898/2026.03.28.714553",
+      "url": "https://doi.org/10.64898/2026.03.28.714553",
+      "pdf": "",
+      "publicationDate": "2026-03-31",
+      "paperId": "5f4e10d431e72b1794844e1c6fb0218483e101b2"
+    },
+    {
+      "title": "Tractometry-Based Quantification of Along-Tract White-Matter Hemispheric Asymmetry in Alzheimer’s Disease",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Iyad Ba Gari",
+          "authorId": "1963198164"
+        },
+        {
+          "name": "Jonathan Davis Alibrando",
+          "authorId": "2377957468"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Kenny Liou",
+          "authorId": "2378918237"
+        },
+        {
+          "name": "Sunanda Somu",
+          "authorId": "2260352422"
+        },
+        {
+          "name": "Hannah Yoo",
+          "authorId": "2379016186"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Eileen Lüders",
+          "authorId": "3828533"
+        },
+        {
+          "name": "Fang-Cheng Yeh",
+          "authorId": "2359444026"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2026,
+      "venue": "bioRxiv",
+      "doi": "10.64898/2026.01.23.701434",
+      "url": "https://doi.org/10.64898/2026.01.23.701434",
+      "pdf": "",
+      "publicationDate": "2026-01-24",
+      "paperId": "d62fc8c9a5294373e61fbc82fc1aaab37b94d47f"
+    },
+    {
+      "title": "BundleWarp: Enhancing white matter tractometry and morphometry with precise neuronal mapping using streamline-based nonlinear registration",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "E. Olivetti",
+          "authorId": "1759500"
+        },
+        {
+          "name": "David Romero-Bascones",
+          "authorId": "2115081802"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "J. Harezlak",
+          "authorId": "2565809"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2228083004"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        }
+      ],
+      "year": 2026,
+      "venue": "Medical Image Analysis",
+      "doi": "10.1016/j.media.2026.104114",
+      "url": "https://doi.org/10.1016/j.media.2026.104114",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2023/01/05/2023.01.04.522802.full.pdf",
+      "publicationDate": "2026-01-01",
+      "paperId": "b71a8f5e4554a313b3656a11702a866641ab01d0"
+    },
+    {
+      "title": "Evaluating Sample-Size Efficiency and Sensitivity of Tractometry in Alzheimer’s Disease",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Iyad Ba Gari",
+          "authorId": "1963198164"
+        },
+        {
+          "name": "Jonathan Davis Alibrando",
+          "authorId": "2377957468"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        }
+      ],
+      "year": 2026,
+      "venue": "2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)",
+      "doi": "10.1109/ISBI61048.2026.11515697",
+      "url": "https://doi.org/10.1109/ISBI61048.2026.11515697",
+      "pdf": "",
+      "publicationDate": "2025-11-13",
+      "paperId": "6aed84a9fb1e6a50d0012746bcac9c2ee9c5ab1e"
+    },
+    {
+      "title": "Assessing the Influence of Tractography Methods on White Matter Microstructure and Tractometry Analysis in Alzheimer's Disease",
+      "authors": [
+        {
+          "name": "Yuhan Shuai",
+          "authorId": "2377957633"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        }
+      ],
+      "year": 2026,
+      "venue": "2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)",
+      "doi": "10.1109/ISBI61048.2026.11515867",
+      "url": "https://doi.org/10.1109/ISBI61048.2026.11515867",
+      "pdf": "",
+      "publicationDate": "2025-11-13",
+      "paperId": "f3ae72744640e957d35eee6916da997b325cc532"
+    },
+    {
+      "title": "Editorial: Methods and applications of diffusion MRI tractometry",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "K. Schilling",
+          "authorId": "143667969"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        }
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Neuroscience",
+      "doi": "10.3389/fnins.2025.1737026",
+      "url": "https://doi.org/10.3389/fnins.2025.1737026",
+      "pdf": "",
+      "publicationDate": "2025-11-19",
+      "paperId": "502842adf9eba1a57507c69b86d12c00d9f24992"
+    },
+    {
+      "title": "Along-Tract Mapping of White Matter Microstructural Abnormalities in Bipolar Disorder using Diffusion MRI",
+      "authors": [
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Melody J. Y. Kang",
+          "authorId": "2294342233"
+        },
+        {
+          "name": "Yanghee Im",
+          "authorId": "2328665331"
+        },
+        {
+          "name": "G. McPhilemy",
+          "authorId": "11025919"
+        },
+        {
+          "name": "F. Martyn",
+          "authorId": "1482570330"
+        },
+        {
+          "name": "G. Roberts",
+          "authorId": "2239651517"
+        },
+        {
+          "name": "Brian Hallahan",
+          "authorId": "2388308589"
+        },
+        {
+          "name": "U. Dannlowski",
+          "authorId": "3161510"
+        },
+        {
+          "name": "T. Borgers",
+          "authorId": "1943636209"
+        },
+        {
+          "name": "S. Meinert",
+          "authorId": "8885703"
+        },
+        {
+          "name": "J. Repple",
+          "authorId": "5595453"
+        },
+        {
+          "name": "E. Leehr",
+          "authorId": "46511827"
+        },
+        {
+          "name": "D. Grotegerd",
+          "authorId": "2519785"
+        },
+        {
+          "name": "Tim Hahn",
+          "authorId": "2235649560"
+        },
+        {
+          "name": "T. Kircher",
+          "authorId": "2246485895"
+        },
+        {
+          "name": "L. Teutenberg",
+          "authorId": "2209982624"
+        },
+        {
+          "name": "Benjamin Straube",
+          "authorId": "2298705201"
+        },
+        {
+          "name": "O. Steinsträter",
+          "authorId": "5255896"
+        },
+        {
+          "name": "F. Stein",
+          "authorId": "114916226"
+        },
+        {
+          "name": "F. Thomas-Odenthal",
+          "authorId": "1948081690"
+        },
+        {
+          "name": "N. Alexander",
+          "authorId": "2212065146"
+        },
+        {
+          "name": "P. Usemann",
+          "authorId": "2192576070"
+        },
+        {
+          "name": "A. Jansen",
+          "authorId": "2242342211"
+        },
+        {
+          "name": "B. Haarman",
+          "authorId": "2454765"
+        },
+        {
+          "name": "P. Mitchell",
+          "authorId": "2239682790"
+        },
+        {
+          "name": "C. McDonald",
+          "authorId": "2257470017"
+        },
+        {
+          "name": "D. Cannon",
+          "authorId": "1891169"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "O. A. Andreassen",
+          "authorId": "2361133743"
+        },
+        {
+          "name": "Christopher R. K. Ching",
+          "authorId": "2252260373"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2025,
+      "venue": "Symposium on Medical Information Processing and Analysis",
+      "doi": "10.1109/SIPAIM67325.2025.11283419",
+      "url": "https://doi.org/10.1109/SIPAIM67325.2025.11283419",
+      "pdf": "",
+      "publicationDate": "2025-11-18",
+      "paperId": "72809f356e7294b035789f0d08eaa4674bbb440c"
+    },
+    {
+      "title": "Mapping along-tract commissural and association white matter microstructural differences in autistic children and young adults",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2279687942"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        }
+      ],
+      "year": 2025,
+      "venue": "Cerebral Cortex",
+      "doi": "10.1093/cercor/bhaf291",
+      "url": "https://doi.org/10.1093/cercor/bhaf291",
+      "pdf": "",
+      "publicationDate": "2025-11-01",
+      "paperId": "989830bc8d40778523f6bc489a391dd744a945d9"
+    },
+    {
+      "title": "Streamline Density Normalization: A Robust Approach to Mitigate Bundle Variability in Multi-Site Diffusion MRI",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Yuhan Shuai",
+          "authorId": "2377957633"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2025,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2025.08.18.670965",
+      "url": "https://doi.org/10.1101/2025.08.18.670965",
+      "pdf": "",
+      "publicationDate": "2025-08-22",
+      "paperId": "f4a2cf0582fcdd7575bcfde0d827e383bdac03ad"
+    },
+    {
+      "title": "Deterministic versus Probabilistic Tractography: Impact on White Matter Bundle Shape",
+      "authors": [
+        {
+          "name": "Yuhan Shuai",
+          "authorId": "2377957633"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "C. Ching",
+          "authorId": "40543893"
+        },
+        {
+          "name": "Iyad Ba Gari",
+          "authorId": "2210919051"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Jonathan Davis Alibrando",
+          "authorId": "2377957468"
+        },
+        {
+          "name": "John P. John",
+          "authorId": "2249097515"
+        },
+        {
+          "name": "G. Venkatasubramanian",
+          "authorId": "2283311903"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2025,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2025.08.19.669949",
+      "url": "https://doi.org/10.1101/2025.08.19.669949",
+      "pdf": "",
+      "publicationDate": "2025-08-19",
+      "paperId": "597a7d312bd8b8a6fb84a684d187e30f11be63ba"
+    },
+    {
+      "title": "White Matter Tract Vulnerability to Amyloid Pathology on the Alzheimer’s Disease Continuum",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Robert I. Reid",
+          "authorId": "19228318"
+        },
+        {
+          "name": "C. Jack",
+          "authorId": "2239933739"
+        },
+        {
+          "name": "M. Weiner",
+          "authorId": "2339435032"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Meredith N. Braskie",
+          "authorId": "1938015"
+        },
+        {
+          "name": "S. O’Bryant",
+          "authorId": "2278297058"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2025,
+      "venue": "bioRxiv",
+      "doi": "10.1109/SIPAIM67325.2025.11283325",
+      "url": "https://doi.org/10.1109/SIPAIM67325.2025.11283325",
+      "pdf": "",
+      "publicationDate": "2025-08-19",
+      "paperId": "bc3601c82476a49421525ecb75fcd3de4af03fc4"
+    },
+    {
+      "title": "79. Assessing White Matter Microstructural Alterations in the Brain’s Association Tracts in Autism Using Diffusion MRI Tractometry",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2353004694"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        }
+      ],
+      "year": 2025,
+      "venue": "Biological Psychiatry",
+      "doi": "10.1016/j.biopsych.2025.02.316",
+      "url": "https://doi.org/10.1016/j.biopsych.2025.02.316",
+      "pdf": "",
+      "publicationDate": "2025-05-01",
+      "paperId": "ea81f6fa54daae8388f9996add424f7f70afe4bb"
+    },
+    {
+      "title": "Introducing QuantConn: Overcoming challenging diffusion acquisitions with harmonization",
+      "authors": [
+        {
+          "name": "N. Newlin",
+          "authorId": "2094729366"
+        },
+        {
+          "name": "Kurt Schilling",
+          "authorId": "2318038750"
+        },
+        {
+          "name": "S. Koudoro",
+          "authorId": "15581749"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Praitayini Kanakaraj",
+          "authorId": "1704893173"
+        },
+        {
+          "name": "Daniel Moyer",
+          "authorId": "2239208267"
+        },
+        {
+          "name": "Claire E. Kelly",
+          "authorId": "47503925"
+        },
+        {
+          "name": "Sila Genc",
+          "authorId": "2319555561"
+        },
+        {
+          "name": "Joseph Yuan-Mou Yang",
+          "authorId": "2319609648"
+        },
+        {
+          "name": "Ye Wu",
+          "authorId": "2316362790"
+        },
+        {
+          "name": "N. Adluru",
+          "authorId": "2077043"
+        },
+        {
+          "name": "Vishwesh Nath",
+          "authorId": "2309476572"
+        },
+        {
+          "name": "S. Pathak",
+          "authorId": "2122470"
+        },
+        {
+          "name": "Walter Schneider",
+          "authorId": "2305158391"
+        },
+        {
+          "name": "Anurag Gade",
+          "authorId": "2319558838"
+        },
+        {
+          "name": "William Consagra",
+          "authorId": "2051550667"
+        },
+        {
+          "name": "Y. Rathi",
+          "authorId": "1766623"
+        },
+        {
+          "name": "Tom Hendriks",
+          "authorId": "2244303502"
+        },
+        {
+          "name": "Anna Vilanova",
+          "authorId": "2285081849"
+        },
+        {
+          "name": "Maxime Chamberland",
+          "authorId": "2315811080"
+        },
+        {
+          "name": "Tomasz Pieciak",
+          "authorId": "2352107320"
+        },
+        {
+          "name": "Dominika Ciupek",
+          "authorId": "2220115337"
+        },
+        {
+          "name": "A. Tristán-Vega",
+          "authorId": "1399370471"
+        },
+        {
+          "name": "S. Aja‐Fernández",
+          "authorId": "1393655553"
+        },
+        {
+          "name": "Maciej Malawski",
+          "authorId": "2311808861"
+        },
+        {
+          "name": "Gani Ouedraogo",
+          "authorId": "2319546894"
+        },
+        {
+          "name": "Julia Machnio",
+          "authorId": "2319558613"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2273963610"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Bennett A. Landman",
+          "authorId": "2296118900"
+        }
+      ],
+      "year": 2025,
+      "venue": "CDMRI@MICCAI",
+      "doi": "10.1007/978-3-031-86920-4_15",
+      "url": "https://doi.org/10.1007/978-3-031-86920-4_15",
+      "pdf": "",
+      "publicationDate": "2025-04-18",
+      "paperId": "66711454ef89afdf7a73f73a0f575028d6432752"
+    },
+    {
+      "title": "Mapping Along-Tract White Matter Microstructural Differences in Autism",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2279687942"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        }
+      ],
+      "year": 2025,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2025.03.21.644498",
+      "url": "https://doi.org/10.1101/2025.03.21.644498",
+      "pdf": "",
+      "publicationDate": "2025-03-24",
+      "paperId": "ef20e2999150c0002322de8141bc609e4a66f5be"
+    },
+    {
+      "title": "Amyloid, Tau, and APOE in Alzheimer's Disease: Impact on White Matter Tracts.",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2025,
+      "venue": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+      "doi": "",
+      "url": "https://www.semanticscholar.org/paper/18aa866f25225a6bbfc961d1b596064714f68793",
+      "pdf": "",
+      "publicationDate": "",
+      "paperId": "18aa866f25225a6bbfc961d1b596064714f68793"
+    },
+    {
+      "title": "Microstructural mapping of neural pathways in Alzheimer's disease using macrostructure‐informed normative tractometry",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Emily Laltoo",
+          "authorId": "2032723212"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "Himanshu Joshi",
+          "authorId": "2283312019"
+        },
+        {
+          "name": "G. Venkatasubramanian",
+          "authorId": "2283311903"
+        },
+        {
+          "name": "John P. John",
+          "authorId": "2249097515"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Robert I. Reid",
+          "authorId": "2276762582"
+        },
+        {
+          "name": "C. Jack",
+          "authorId": "2239933739"
+        },
+        {
+          "name": "Michael W. Weiner",
+          "authorId": "2254374567"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2024,
+      "venue": "Alzheimer's & Dementia",
+      "doi": "10.1002/alz.14371",
+      "url": "https://doi.org/10.1002/alz.14371",
+      "pdf": "https://doi.org/10.1002/alz.14371",
+      "publicationDate": "2024-12-30",
+      "paperId": "36fbab7ed44183030658aeb0a243a4ba492bdf7b"
+    },
+    {
+      "title": "Harmonized Tractometry Visualizes Alzheimer’s Disease Effects on the Brain’s White Matter Tract Microstructure",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E Villalon Reina",
+          "authorId": "2032482326"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2024,
+      "venue": "Alzheimer's & Dementia",
+      "doi": "10.1002/alz.089548",
+      "url": "https://doi.org/10.1002/alz.089548",
+      "pdf": "",
+      "publicationDate": "2024-12-01",
+      "paperId": "579321f61f402f4b3f79dec14dbdfbe380af61d5"
+    },
+    {
+      "title": "White Matter Microstructural Alterations in Autism Localized with Bundle Analytics",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2279687942"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        }
+      ],
+      "year": 2024,
+      "venue": "bioRxiv",
+      "doi": "10.1109/ISBI60581.2025.10980852",
+      "url": "https://doi.org/10.1109/ISBI60581.2025.10980852",
+      "pdf": "",
+      "publicationDate": "2024-10-18",
+      "paperId": "b8146aee87a276e60892598857b1f14316f8041b"
+    },
+    {
+      "title": "MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI",
+      "authors": [
+        {
+          "name": "N. Newlin",
+          "authorId": "2094729366"
+        },
+        {
+          "name": "Kurt Schilling",
+          "authorId": "2318038750"
+        },
+        {
+          "name": "S. Koudoro",
+          "authorId": "15581749"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Praitayini Kanakaraj",
+          "authorId": "1704893173"
+        },
+        {
+          "name": "Daniel Moyer",
+          "authorId": "2239208267"
+        },
+        {
+          "name": "Claire E. Kelly",
+          "authorId": "47503925"
+        },
+        {
+          "name": "Sila Genc",
+          "authorId": "2319555561"
+        },
+        {
+          "name": "Jian Chen",
+          "authorId": "2282978619"
+        },
+        {
+          "name": "Joseph Yuan-Mou Yang",
+          "authorId": "2319609648"
+        },
+        {
+          "name": "Ye Wu",
+          "authorId": "2258779588"
+        },
+        {
+          "name": "Yifei He",
+          "authorId": "2319602295"
+        },
+        {
+          "name": "Jiawei Zhang",
+          "authorId": "2243308222"
+        },
+        {
+          "name": "Qingrun Zeng",
+          "authorId": "8670274"
+        },
+        {
+          "name": "Fan Zhang",
+          "authorId": "2283435447"
+        },
+        {
+          "name": "N. Adluru",
+          "authorId": "2077043"
+        },
+        {
+          "name": "V. Nath",
+          "authorId": "10751841"
+        },
+        {
+          "name": "S. Pathak",
+          "authorId": "2122470"
+        },
+        {
+          "name": "Walter Schneider",
+          "authorId": "2305158391"
+        },
+        {
+          "name": "Anurag Gade",
+          "authorId": "2319558838"
+        },
+        {
+          "name": "Y. Rathi",
+          "authorId": "1766623"
+        },
+        {
+          "name": "Tom Hendriks",
+          "authorId": "2244303502"
+        },
+        {
+          "name": "Anna Vilanova",
+          "authorId": "2285081849"
+        },
+        {
+          "name": "Maxime Chamberland",
+          "authorId": "2315811080"
+        },
+        {
+          "name": "Tomasz Pieciak",
+          "authorId": "3146859"
+        },
+        {
+          "name": "Dominika Ciupek",
+          "authorId": "2220115337"
+        },
+        {
+          "name": "A. Tristán-Vega",
+          "authorId": "1399370471"
+        },
+        {
+          "name": "S. Aja‐Fernández",
+          "authorId": "1393655553"
+        },
+        {
+          "name": "Maciej Malawski",
+          "authorId": "2311808861"
+        },
+        {
+          "name": "Gani Ouedraogo",
+          "authorId": "2319546894"
+        },
+        {
+          "name": "Julia Machnio",
+          "authorId": "2319558613"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "B. A. Landman",
+          "authorId": "2282270766"
+        }
+      ],
+      "year": 2024,
+      "venue": "Machine Learning for Biomedical Imaging",
+      "doi": "10.59275/j.melba.2024-9c68",
+      "url": "https://doi.org/10.59275/j.melba.2024-9c68",
+      "pdf": "",
+      "publicationDate": "2024-08-31",
+      "paperId": "8498ac532e8997a01e4e0d16eeee835a4c29a706"
+    },
+    {
+      "title": "BundleAGE: Predicting White Matter Age using Along-Tract Microstructural Profiles from Diffusion MRI",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2024,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2024.08.16.608347",
+      "url": "https://doi.org/10.1101/2024.08.16.608347",
+      "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11370403",
+      "publicationDate": "2024-08-19",
+      "paperId": "3545fa462436278666418d8817afbcfad659d541"
+    },
+    {
+      "title": "Amyloid, Tau, and APOE in Alzheimer’s Disease: Impact on White Matter Tracts",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        }
+      ],
+      "year": 2024,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2024.08.05.606560",
+      "url": "https://doi.org/10.1101/2024.08.05.606560",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2024/08/06/2024.08.05.606560.full.pdf",
+      "publicationDate": "2024-08-05",
+      "paperId": "53a4ad03a7e26c0ff1470824a0c1e5d155b288f8"
+    },
+    {
+      "title": "Deep Normative Tractometry for Identifying Joint White Matter Macro- and Micro-structural Abnormalities in Alzheimer’s Disease",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "S. Chehrzadeh",
+          "authorId": "2283312985"
+        },
+        {
+          "name": "Emily Laltoo",
+          "authorId": "2032723212"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Himanshu Joshi",
+          "authorId": "2283312019"
+        },
+        {
+          "name": "G. Venkatasubramanian",
+          "authorId": "2283311903"
+        },
+        {
+          "name": "John P. John",
+          "authorId": "2249097515"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "2244189011"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        }
+      ],
+      "year": 2024,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "doi": "10.1109/EMBC53108.2024.10781681",
+      "url": "https://doi.org/10.1109/EMBC53108.2024.10781681",
+      "pdf": "https://doi.org/10.1101/2024.02.05.578943",
+      "publicationDate": "2024-07-01",
+      "paperId": "bdfc3ec954a79192bb2b77995274dd7fedf07ff2"
+    },
+    {
+      "title": "Bundle Analytics based Data Harmonization for Multi-Site Diffusion MRI Tractometry",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2260351082"
+        }
+      ],
+      "year": 2024,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2024.02.03.578764",
+      "url": "https://doi.org/10.1101/2024.02.03.578764",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2024/02/04/2024.02.03.578764.full.pdf",
+      "publicationDate": "2024-05-01",
+      "paperId": "22fdcb6fd82faa8f505d8bcd4576a91e26e3d73f"
+    },
+    {
+      "title": "95. Along-Tract Mapping of Commissural Tract Microstructure Alterations in Autism Using Diffusion MRI",
+      "authors": [
+        {
+          "name": "Gaon S. Kim",
+          "authorId": "2283263487"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Katherine E. Lawrence",
+          "authorId": "2258685545"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2279687942"
+        }
+      ],
+      "year": 2024,
+      "venue": "Biological Psychiatry",
+      "doi": "10.1016/j.biopsych.2024.02.330",
+      "url": "https://doi.org/10.1016/j.biopsych.2024.02.330",
+      "pdf": "",
+      "publicationDate": "2024-05-01",
+      "paperId": "5df5ca499ddec1e94f93ec7a7caf3d1eed7d823c"
+    },
+    {
+      "title": "Microstructural Mapping of Neural Pathways in Alzheimer’s Disease using Macrostructure-Informed Normative Tractometry",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Emily Laltoo",
+          "authorId": "2032723212"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "Himanshu Joshi",
+          "authorId": "2283312019"
+        },
+        {
+          "name": "G. Venkatasubramanian",
+          "authorId": "2283311903"
+        },
+        {
+          "name": "John P. John",
+          "authorId": "2249097515"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "Robert I. Reid",
+          "authorId": "2276762582"
+        },
+        {
+          "name": "C. Jack",
+          "authorId": "2285955970"
+        },
+        {
+          "name": "Michael W. Weiner",
+          "authorId": "2239684481"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2258889863"
+        }
+      ],
+      "year": 2024,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2024.04.25.591183",
+      "url": "https://doi.org/10.1101/2024.04.25.591183",
+      "pdf": "",
+      "publicationDate": "2024-04-28",
+      "paperId": "66636608623c8d74fc8343f0148dab036a937432"
+    },
+    {
+      "title": "Multi-Site Statistical Mapping of Along-Tract Microstructural Abnormalities in Bipolar Disorder with Diffusion MRI Tractometry",
+      "authors": [
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "G. McPhilemy",
+          "authorId": "11025919"
+        },
+        {
+          "name": "F. Martyn",
+          "authorId": "1482570330"
+        },
+        {
+          "name": "G. Roberts",
+          "authorId": "143975530"
+        },
+        {
+          "name": "B. Hallahan",
+          "authorId": "1878487"
+        },
+        {
+          "name": "U. Dannlowski",
+          "authorId": "3161510"
+        },
+        {
+          "name": "T. Kircher",
+          "authorId": "2304485"
+        },
+        {
+          "name": "B. Haarman",
+          "authorId": "34941470"
+        },
+        {
+          "name": "P. Mitchell",
+          "authorId": "39985850"
+        },
+        {
+          "name": "C. Mcdonald",
+          "authorId": "2393210996"
+        },
+        {
+          "name": "D. Cannon",
+          "authorId": "1891169"
+        },
+        {
+          "name": "O. Andreassen",
+          "authorId": "1777021"
+        },
+        {
+          "name": "C. Ching",
+          "authorId": "40543893"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "145363223"
+        }
+      ],
+      "year": 2023,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2023.08.17.553762",
+      "url": "https://doi.org/10.1101/2023.08.17.553762",
+      "pdf": "https://pure.rug.nl/ws/files/915093615/Multi-Site_Statistical_Mapping_of_Along-Tract_Microstructural_Abnormalities_in_Bipolar_Disorder_with_Diffusion_MRI_Tractometry.pdf",
+      "publicationDate": "2023-08-21",
+      "paperId": "03f63df8aefefe91a533a8828dfbff6c8965f8c0"
+    },
+    {
+      "title": "BundleCleaner: Unsupervised Denoising and Subsampling of Diffusion MRI-Derived Tractography Data",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Himanshu Joshi",
+          "authorId": "2057027135"
+        },
+        {
+          "name": "Gauthami Nair",
+          "authorId": "2358931529"
+        },
+        {
+          "name": "Anand A. Joshi",
+          "authorId": "143899771"
+        },
+        {
+          "name": "G. Venkatasubramanian",
+          "authorId": "10260863"
+        },
+        {
+          "name": "J. John",
+          "authorId": "144682998"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "145363223"
+        }
+      ],
+      "year": 2023,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2023.08.19.553990",
+      "url": "https://doi.org/10.1101/2023.08.19.553990",
+      "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473583",
+      "publicationDate": "2023-08-21",
+      "paperId": "9a8ce4f03a6c95010ff6d82767acf7b77c72a930"
+    },
+    {
+      "title": "Variational Autoencoders for Generating Synthetic Tractography-Based Bundle Templates in a Low-Data Setting",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2250877517"
+        }
+      ],
+      "year": 2023,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "doi": "10.1109/EMBC40787.2023.10340009",
+      "url": "https://doi.org/10.1109/EMBC40787.2023.10340009",
+      "pdf": "https://ieeexplore.ieee.org/ielx7/10339936/10339939/10340009.pdf",
+      "publicationDate": "2023-07-01",
+      "paperId": "4f139425daa562846c610de787365a0161b7a778"
+    },
+    {
+      "title": "Along-Tract Statistical Mapping of Microstructural Abnormalities in Bipolar Disorder: A Pilot Study",
+      "authors": [
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Nikhil J. Dhinagar",
+          "authorId": "1920066"
+        },
+        {
+          "name": "Emily Laltoo",
+          "authorId": "2032723212"
+        },
+        {
+          "name": "G. McPhilemy",
+          "authorId": "11025919"
+        },
+        {
+          "name": "F. Martyn",
+          "authorId": "1482570330"
+        },
+        {
+          "name": "B. Hallahan",
+          "authorId": "1878487"
+        },
+        {
+          "name": "C. Mcdonald",
+          "authorId": "2393210996"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "145363223"
+        },
+        {
+          "name": "D. Cannon",
+          "authorId": "1891169"
+        }
+      ],
+      "year": 2023,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2023.03.07.531585",
+      "url": "https://doi.org/10.1101/2023.03.07.531585",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2023/03/10/2023.03.07.531585.full.pdf",
+      "publicationDate": "2023-03-10",
+      "paperId": "5ee7a52e9c671a32e7e80039fa4531d42b2a474e"
+    },
+    {
+      "title": "Microstructural changes in the white matter tracts of the brain due to mild cognitive impairment",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Javier Guaje",
+          "authorId": "29869220"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "145363223"
+        }
+      ],
+      "year": 2022,
+      "venue": "Alzheimer's &amp; Dementia",
+      "doi": "10.1002/alz.065339",
+      "url": "https://doi.org/10.1002/alz.065339",
+      "pdf": "",
+      "publicationDate": "2022-12-01",
+      "paperId": "8fd3820936dfbacb3382bc9258cb29c1bfbe7c55"
+    },
+    {
+      "title": "Learning Streamline Embeddings with Variational Autoencoder for Intersubject Bundle Comparison in Alzheimer’s Disease",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2149570536"
+        }
+      ],
+      "year": 2022,
+      "venue": "Alzheimer's &amp; Dementia",
+      "doi": "10.1002/alz.066204",
+      "url": "https://doi.org/10.1002/alz.066204",
+      "pdf": "",
+      "publicationDate": "2022-12-01",
+      "paperId": "a720778ca1dec44209366d4138eeb1750954a4d4"
+    },
+    {
+      "title": "Learning Optimal White Matter Tract Representations from Tractography using a Deep Generative Model for Population Analyses",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2149570536"
+        }
+      ],
+      "year": 2022,
+      "venue": "bioRxiv",
+      "doi": "10.1101/2022.07.31.502227",
+      "url": "https://doi.org/10.1101/2022.07.31.502227",
+      "pdf": "https://www.biorxiv.org/content/biorxiv/early/2022/08/02/2022.07.31.502227.full.pdf",
+      "publicationDate": "2022-08-02",
+      "paperId": "6926d9f3e913ac4cf95e5fe111e4611443d53b6d"
+    },
+    {
+      "title": "Learning white matter subject-specific segmentation from structural MRI",
+      "authors": [
+        {
+          "name": "Qi Yang",
+          "authorId": "2109122615"
+        },
+        {
+          "name": "Colin B. Hansen",
+          "authorId": "46172767"
+        },
+        {
+          "name": "L. Cai",
+          "authorId": "47236750"
+        },
+        {
+          "name": "F. Rheault",
+          "authorId": "51294781"
+        },
+        {
+          "name": "Ho Hin Lee",
+          "authorId": "2110756308"
+        },
+        {
+          "name": "Shunxing Bao",
+          "authorId": "3449782"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Owen A. Williams",
+          "authorId": "40162113"
+        },
+        {
+          "name": "S. Resnick",
+          "authorId": "1730458"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        },
+        {
+          "name": "A. Anderson",
+          "authorId": "2082391190"
+        },
+        {
+          "name": "M. Descoteaux",
+          "authorId": "1788574"
+        },
+        {
+          "name": "K. Schilling",
+          "authorId": "143667969"
+        },
+        {
+          "name": "B. Landman",
+          "authorId": "1699344"
+        }
+      ],
+      "year": 2022,
+      "venue": "Medical Physics (Lancaster)",
+      "doi": "10.1002/mp.15495",
+      "url": "https://doi.org/10.1002/mp.15495",
+      "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mp.15495",
+      "publicationDate": "2022-01-28",
+      "paperId": "e5dd04ad966ef340db24667c7697fa2ae98c74de"
+    },
+    {
+      "title": "FiberNeat: Unsupervised White Matter Tract Filtering",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "145363223"
+        }
+      ],
+      "year": 2021,
+      "venue": "bioRxiv",
+      "doi": "10.1109/EMBC48229.2022.9870877",
+      "url": "https://doi.org/10.1109/EMBC48229.2022.9870877",
+      "pdf": "",
+      "publicationDate": "2021-10-28",
+      "paperId": "54e96edece2dc2742f04b3eacf0891f1663a35b0"
+    },
+    {
+      "title": "Editorial for “Unraveling the MRI‐Based Microstructural Signatures Behind Primary Progressive and Relapsing‐Remitting Multiple Sclerosis Phenotypes”",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Magnetic Resonance Imaging",
+      "doi": "10.1002/jmri.27862",
+      "url": "https://doi.org/10.1002/jmri.27862",
+      "pdf": "",
+      "publicationDate": "2021-07-23",
+      "paperId": "eff0edb575f91571d197c89a4a36cf1531be4ee7"
+    },
+    {
+      "title": "ThetA - fast and robust clustering via a distance parameter",
+      "authors": [
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        },
+        {
+          "name": "S. Fadnavis",
+          "authorId": "70534749"
+        },
+        {
+          "name": "Jong Sung Park",
+          "authorId": ""
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Javier Guaje",
+          "authorId": "29869220"
+        },
+        {
+          "name": "S. Koudoro",
+          "authorId": "15581749"
+        },
+        {
+          "name": "Nasim Anousheh",
+          "authorId": "92022824"
+        }
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "doi": "",
+      "url": "https://www.semanticscholar.org/paper/0d4c75b23a9227c6dd143ed7e2aca4ab40d8db87",
+      "pdf": "",
+      "publicationDate": "2021-02-13",
+      "paperId": "0d4c75b23a9227c6dd143ed7e2aca4ab40d8db87"
+    },
+    {
+      "title": "Bundle analytics, a computational framework for investigating the shapes and profiles of brain pathways across populations",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Risacher",
+          "authorId": "2678448"
+        },
+        {
+          "name": "F. Pestilli",
+          "authorId": "2712614"
+        },
+        {
+          "name": "D. Bullock",
+          "authorId": "145218384"
+        },
+        {
+          "name": "F. Yeh",
+          "authorId": "2052300"
+        },
+        {
+          "name": "S. Koudoro",
+          "authorId": "15581749"
+        },
+        {
+          "name": "Ariel S. Rokem",
+          "authorId": "2842990"
+        },
+        {
+          "name": "J. Harezlak",
+          "authorId": "2565809"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        }
+      ],
+      "year": 2020,
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-020-74054-4",
+      "url": "https://doi.org/10.1038/s41598-020-74054-4",
+      "pdf": "https://www.nature.com/articles/s41598-020-74054-4.pdf",
+      "publicationDate": "2020-10-13",
+      "paperId": "f01fc2c1cb6ceb08bc2982a19eeb511bd6709c1c"
+    },
+    {
+      "title": "Pandora: 4-D white matter bundle population-based atlases derived from diffusion MRI fiber tractography",
+      "authors": [
+        {
+          "name": "Colin B. Hansen",
+          "authorId": "46172767"
+        },
+        {
+          "name": "Qi Yang",
+          "authorId": "2109122615"
+        },
+        {
+          "name": "Ilwoo Lyu",
+          "authorId": "2547140"
+        },
+        {
+          "name": "F. Rheault",
+          "authorId": "51294781"
+        },
+        {
+          "name": "Cailey I. Kerley",
+          "authorId": "52142290"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Fadnavis",
+          "authorId": "70534749"
+        },
+        {
+          "name": "Owen A. Williams",
+          "authorId": "40162113"
+        },
+        {
+          "name": "A. Shafer",
+          "authorId": "117530295"
+        },
+        {
+          "name": "S. Resnick",
+          "authorId": "1730458"
+        },
+        {
+          "name": "D. Zald",
+          "authorId": "2827115"
+        },
+        {
+          "name": "Laurie Cutting",
+          "authorId": "2221044898"
+        },
+        {
+          "name": "Warren D. Taylor",
+          "authorId": "2114766197"
+        },
+        {
+          "name": "Brian D. Boyd",
+          "authorId": "2966384"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2611339"
+        },
+        {
+          "name": "A. Anderson",
+          "authorId": "3184950"
+        },
+        {
+          "name": "M. Descoteaux",
+          "authorId": "1788574"
+        },
+        {
+          "name": "B. Landman",
+          "authorId": "1699344"
+        },
+        {
+          "name": "K. Schilling",
+          "authorId": "143667969"
+        }
+      ],
+      "year": 2020,
+      "venue": "Neuroinformatics",
+      "doi": "10.1007/s12021-020-09497-1",
+      "url": "https://doi.org/10.1007/s12021-020-09497-1",
+      "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8124084",
+      "publicationDate": "2020-06-13",
+      "paperId": "dbfdac9278edb0c3a781f166f78be15f84ee2f16"
+    },
+    {
+      "title": "Deep generative model for learning tractography streamline embeddings based on a Convolutional Variational Autoencoder",
+      "authors": [
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "N. Jahanshad",
+          "authorId": "1721831"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "P. Thompson",
+          "authorId": "2149570536"
+        }
+      ],
+      "year": null,
+      "venue": "ISMRM Annual Meeting",
+      "doi": "10.58530/2022/3458",
+      "url": "https://doi.org/10.58530/2022/3458",
+      "pdf": "",
+      "publicationDate": "",
+      "paperId": "0272b282a167f079cd415d43123dc71dfb294f0a"
+    },
+    {
+      "title": "BundleAtlasing: unbiased population-specific atlasing of bundles in streamline space",
+      "authors": [
+        {
+          "name": "David Romero-Bascones",
+          "authorId": "2115081802"
+        },
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Fadnavis",
+          "authorId": "70534749"
+        },
+        {
+          "name": "Jong Park",
+          "authorId": ""
+        },
+        {
+          "name": "S. Koudoro",
+          "authorId": "15581749"
+        },
+        {
+          "name": "Unai Ayala",
+          "authorId": "2094414820"
+        },
+        {
+          "name": "Maitane Barrenechea",
+          "authorId": "3032502"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        }
+      ],
+      "year": null,
+      "venue": "ISMRM Annual Meeting",
+      "doi": "10.58530/2022/0878",
+      "url": "https://doi.org/10.58530/2022/0878",
+      "pdf": "http://ebiltegia.mondragon.edu/xmlui/bitstream/20.500.11984/6148/2/BundleAtlasing%20unbiased%20population-specific%20atlasing%20of%20bundles%20in%20streamline%20space.pdf",
+      "publicationDate": "",
+      "paperId": "3dbc0124495c882a58003ee3aad2f5ba0dc8d26e"
+    },
+    {
+      "title": "Visualizing 4,230 White Matter Tracts at Once",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Tamoghna Chattopadhyay",
+          "authorId": "118997728"
+        },
+        {
+          "name": "Conor Owens-Walton",
+          "authorId": "1401921147"
+        },
+        {
+          "name": "Julio E Villalon Reina",
+          "authorId": "2032482326"
+        },
+        {
+          "name": "Leila Nabulsi",
+          "authorId": "47520993"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Javier Guaje",
+          "authorId": "29869220"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2228083004"
+        }
+      ],
+      "year": null,
+      "venue": "ISMRM Annual Meeting",
+      "doi": "10.58530/2022/4996",
+      "url": "https://doi.org/10.58530/2022/4996",
+      "pdf": "",
+      "publicationDate": "",
+      "paperId": "a10943f15d0bf31fb6e04c024d07c1c8d1c57f10"
+    },
+    {
+      "title": "Mapping the Influence of Amyloid, Tau, and APOE Variants on White Matter Tracts in Alzheimer’s Disease",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "Julio E. Villalón-Reina",
+          "authorId": "1399712338"
+        },
+        {
+          "name": "T. Nir",
+          "authorId": "3031771"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Yixue Feng",
+          "authorId": "120956693"
+        },
+        {
+          "name": "Sebastian M. Benavidez",
+          "authorId": "2214000755"
+        },
+        {
+          "name": "Neda ahanshad",
+          "authorId": "2380922559"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2228083004"
+        }
+      ],
+      "year": null,
+      "venue": "ISMRM Annual Meeting",
+      "doi": "10.58530/2025/0193",
+      "url": "https://doi.org/10.58530/2025/0193",
+      "pdf": "",
+      "publicationDate": "",
+      "paperId": "d809c861460ae246cd75946716c5ef8746406d44"
+    },
+    {
+      "title": "BUAN 2.0, streamlines as functions, nonlinear registration, and subdivision of bundles for advanced tractometry",
+      "authors": [
+        {
+          "name": "B. Chandio",
+          "authorId": "1752544717"
+        },
+        {
+          "name": "S. Thomopoulos",
+          "authorId": "24074573"
+        },
+        {
+          "name": "Paul M. Thompson",
+          "authorId": "2228083004"
+        },
+        {
+          "name": "Jaroslaw Harezlak",
+          "authorId": "2274839962"
+        },
+        {
+          "name": "E. Garyfallidis",
+          "authorId": "2130040998"
+        }
+      ],
+      "year": null,
+      "venue": "ISMRM Annual Meeting",
+      "doi": "10.58530/2023/3965",
+      "url": "https://doi.org/10.58530/2023/3965",
+      "pdf": "",
+      "publicationDate": "",
+      "paperId": "e755a12427597dfa76ede128780b3501c211e849"
+    }
+  ]
+}

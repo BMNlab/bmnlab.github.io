@@ -4,6 +4,9 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    # Rebuild every Monday at 06:00 UTC to pick up new publications
+    - cron: '0 6 * * 1'
 
 permissions:
   contents: read
@@ -33,6 +36,12 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch publications from Semantic Scholar
+        run: python3 scripts/fetch_publications.py
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
