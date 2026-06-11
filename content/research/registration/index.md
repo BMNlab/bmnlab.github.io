@@ -60,5 +60,5 @@ Published as: **BundleWarp: Enhancing white matter tractometry and morphometry w
 
 ## Code
 
-- **DIPY integration:** [dipy.org](https://docs.dipy.org/stable/examples_built/registration/bundlewarp_registration.html)
+- **DIPY integration: Nonrigid Bundle Registration with BundleWarp** [https://docs.dipy.org/stable/examples_built/registration/bundlewarp_registration.html](https://docs.dipy.org/stable/examples_built/registration/bundlewarp_registration.html)
 - **GitHub (DIPY):** [github.com/dipy/dipy](https://github.com/dipy/dipy)

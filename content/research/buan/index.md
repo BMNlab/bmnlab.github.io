@@ -67,8 +67,9 @@ Chandio, B. Q., Risacher, S. L., Pestilli, F., Bullock, D., Yeh, F.-C., Koudoro,
 
 ## Code & Integration
 
-- **Bundle Shape Similarity Score:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_shape_similarity.html)
-- **Bundle Assignment Maps Creation:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_assignment_maps.html)
-- **Bundle Profiles:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/buan_bundle_profiles.html)
+- **DIPY integration:** 
+    - **Bundle Shape Similarity Score:** [https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_shape_similarity.html](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_shape_similarity.html)
+    - **Bundle Assignment Maps Creation:** [https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_assignment_maps.html](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_assignment_maps.html)
+    - **Bundle Profiles:** [https://docs.dipy.org/stable/examples_built/streamline_analysis/buan_bundle_profiles.html](https://docs.dipy.org/stable/examples_built/streamline_analysis/buan_bundle_profiles.html)
 - **GitHub (DIPY):** [github.com/dipy/dipy](https://github.com/dipy/dipy)
 - Fully open-source under BSD license — no commercial dependencies
