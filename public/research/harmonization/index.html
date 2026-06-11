@@ -21,7 +21,7 @@
 
   
   
-    <meta name="description" content="Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.">
+    <meta name="description" content="Integrating ComBat harmonization into the BUAN tractometry pipeline to correct for multi-site and multi-scanner variability in diffusion MRI, boosting statistical power for disease detection.">
   
   
   
@@ -39,17 +39,15 @@
   <meta property="og:url" content="http://localhost:1313/research/harmonization/">
   <meta property="og:site_name" content="BMN Lab">
   <meta property="og:title" content="Data Harmonization">
-  <meta property="og:description" content="Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.">
+  <meta property="og:description" content="Integrating ComBat harmonization into the BUAN tractometry pipeline to correct for multi-site and multi-scanner variability in diffusion MRI, boosting statistical power for disease detection.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="research">
-    <meta property="og:image" content="http://localhost:1313/research/harmonization/featured.png">
 
   
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="http://localhost:1313/research/harmonization/featured.png">
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Data Harmonization">
-  <meta name="twitter:description" content="Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.">
+  <meta name="twitter:description" content="Integrating ComBat harmonization into the BUAN tractometry pipeline to correct for multi-site and multi-scanner variability in diffusion MRI, boosting statistical power for disease detection.">
 
   
   
@@ -60,9 +58,15 @@
     
   
     
-  
+      
     
   
+    
+      
+    
+  
+  
+    
   
 
   
@@ -90,8 +94,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.0c797d80d1dd6926961d57d1feb9a657fed89c167e9f497cbe1906ed40041fca4219f0e2e5dd4310d93b55dd53c5bdd2a64c67808ed134f7e6503fdccff95d58.css"
-    integrity="sha512-DHl9gNHdaSaWHVfR/rmmV/7YnBZ&#43;n0l8vhkG7UAEH8pCGfDi5d1DENk7Vd1Txb3SpkxngI7RNPfmUD/cz/ldWA==">
+    href="/css/main.bundle.min.b26153c4783d0f74ce82af8951c64e0d77bb0431dac9dffcd86bb2b9eee35e55f83b5e978052cd4b21b8138aeb4a5a405ba0bc59df729618d3610df9aef487f7.css"
+    integrity="sha512-smFTxHg9D3TOgq&#43;JUcZODXe7BDHayd/82Guyue7jXlX4O16XgFLNSyG4E4rrSlpAW6C8Wd9ylhjTYQ35rvSH9w==">
 
   
   
@@ -212,7 +216,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "3"
+    "wordCount": "563"
   }]
   </script>
 
@@ -279,7 +283,7 @@
       
       class="flex items-center bf-icon-color-hover"
       aria-label="Home"
-      title="Brain Mapping and NeuroImaging Lab">
+      title="BMN Lab">
       
       
         <span class="text-base font-medium break-normal">
@@ -444,7 +448,7 @@
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Brain Mapping and NeuroImaging Lab" class="text-2xl font-bold tracking-tight">
+        <span title="BMN Lab" class="text-2xl font-bold tracking-tight">
           Home
         </span>
         
@@ -655,28 +659,97 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <figure><img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="auto"
-    alt="Data Harmonization"
-    width="1516"
-    height="309"
-    src="/research/harmonization/featured_hu_d87610774d29ed17.png"
-    srcset="/research/harmonization/featured_hu_d87610774d29ed17.png 800w, /research/harmonization/featured_hu_4748809c05ca7510.png 1280w"
-    sizes="(min-width: 768px) 50vw, 65vw"
-    data-zoom-src="/research/harmonization/featured.png"></figure>
+          <p><strong>Harmonized BUAN</strong> extends the Bundle ANalytics (BUAN) tractometry pipeline by integrating ComBat data harmonization to correct for multi-site and multi-scanner variability. It enables researchers to combine datasets from diverse imaging protocols, maximizing statistical power while mitigating confounding technical factors to ensure the reliable detection of disease effects.</p>
 
-<h2 class="relative group">Project Overview
-    <div id="project-overview" class="anchor"></div>
+<h2 class="relative group">The Problem
+    <div id="the-problem" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#project-overview" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-problem" aria-label="Anchor">#</a>
     </span>
     
 </h2>
+<p>In large-scale neuroimaging research, data must often be pooled across multiple sites to detect subtle disease effects. However, differences in acquisition parameters, such as voxel size, angular resolution, and scanner models, introduce systematic biases (batch effects) that can artificially alter derived microstructural metrics. While harmonization tools like ComBat are widely used at the whole-brain voxel or broad region-of-interest (ROI) level, their application to 3D tractometry, which requires preserving fine-grained, along-tract spatial precision, has remained underexplored.</p>
+
+<h2 class="relative group">Framework Overview
+    <div id="framework-overview" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#framework-overview" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>The Harmonized BUAN pipeline integrates batch-effect correction directly into along-tract analysis through four stages:</p>
+<p><strong>1. Bundle Extraction &amp; Profiling</strong> White matter bundles are segmented from whole-brain tractograms, and bundle profiles are created by dividing tracts into 100 segments based on distances to a model bundle centroid. Diffusion metrics (e.g., FA, MD, RD, AD) are then projected along these discrete segments.</p>
+<p><strong>2. Feature Selection Strategy</strong> The framework utilizes a <strong>bundle-wise</strong> feature selection strategy, treating the 100 segments of each distinct bundle type as independent features. This targeted approach preserves the unique spatial characteristics and data distributions of individual pathways better than attempting to harmonize the entire whole-brain tractogram at once.</p>
+<p><strong>3. Segment-Wise Harmonization</strong> An adapted ComBat model is applied point-by-point along the length of the tracts. The model adjusts for biological covariates (like age and sex), and applies an empirical Bayes scale and shift transformation to the residuals to standardize the distributional shifts caused by specific scanning protocols.</p>
+<p><strong>4. Population-Level Statistics</strong> The harmonized bundle profiles are analyzed using linear regression and Linear Mixed Models (LMMs) to map localized group differences. The statistically significant segments are projected back onto 3D tract models for anatomical visualization.</p>
+<div style="text-align:center; margin:1.5rem 0 0.5rem;">
+  <img src="harmonization-pipeline.png" style="width:95%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Harmonized BUAN pipeline: bundle segmentation → along-tract profiling → segment-wise ComBat harmonization → statistical analysis and 3D visualization.</em></p>
+</div>
+
+<h2 class="relative group">Applications
+    <div id="applications" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#applications" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>The Harmonized BUAN framework has been evaluated to optimize multi-site tractometry studies:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Study Focus</th>
+          <th>Finding</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Multi-Site Alzheimer&rsquo;s Disease (ADNI3)</td>
+          <td>Applying harmonization significantly boosts the statistical power and sensitivity to detect microstructural group differences between MCI, AD, and healthy controls.</td>
+      </tr>
+      <tr>
+          <td>Whole-Brain vs. Bundle-Wise Harmonization</td>
+          <td>Bundle-wise harmonization outperforms whole-brain tractogram-wise approaches by accurately capturing the nuanced variations unique to distinct white matter tracts.</td>
+      </tr>
+      <tr>
+          <td>Robustness to Bundle Extremities</td>
+          <td>Pruning the noisy extremities of fiber bundles (a &ldquo;bundle-core-wise&rdquo; approach) yields almost identical statistical results to using the full bundle, proving the framework is robust to structural noise at termination points.</td>
+      </tr>
+  </tbody>
+</table>
+
+<h2 class="relative group">Validation
+    <div id="validation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#validation" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>Harmonized BUAN was rigorously validated on <strong>730 participants</strong> from the Alzheimer&rsquo;s Disease Neuroimaging Initiative (ADNI3) dataset across <strong>7 distinct scanning protocols</strong>, demonstrating:</p>
+<ul>
+<li>Higher significance (smaller nominal p-values) for group-level disease effects compared to linear regression and LMMs applied to unharmonized data.</li>
+<li>Confirmation that sequentially adding data from diverse acquisition protocols increases overall statistical power.</li>
+<li>Proof that integrating ComBat harmonization successfully mitigates protocol-induced power reductions, further amplifying disease detection sensitivity.</li>
+</ul>
+
+<h2 class="relative group">Publication
+    <div id="publication" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#publication" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>Chandio, B. Q., Villalon-Reina, J. E., Nir, T. M., Thomopoulos, S. I., Feng, Y., Benavidez, S., Jahanshad, N., Harezlak, J., Garyfallidis, E., &amp; Thompson, P. M. (2024). <strong>Bundle Analytics based Data Harmonization for Multi-Site Diffusion MRI Tractometry.</strong> <em>2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</em>. <a href="https://doi.org/10.1109/EMBC53108.2024.10782419"  target="_blank" rel="noreferrer">https://doi.org/10.1109/EMBC53108.2024.10782419</a></p>
 
           
           

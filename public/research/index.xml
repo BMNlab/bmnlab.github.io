@@ -10,23 +10,43 @@
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Bundle Analytics (BUAN)</title>
+      <link>http://localhost:1313/research/buan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/buan/</guid>
+      <description>A computational framework for investigating the shapes and along-tract profiles of white matter pathways across populations.</description>
+      
+    </item>
+    
+    <item>
+      <title>BundleWarp: Streamline-Based Nonlinear Registration of White Matter Tracts</title>
+      <link>http://localhost:1313/research/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/registration/</guid>
+      <description>A streamline-specific nonlinear registration method that intelligently warps white matter bundles while preserving their topological structure, outperforming both linear and image-based registration approaches.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/registration/featured.png" />
+    </item>
+    
+    <item>
+      <title>Neurodegenerative Diseases</title>
+      <link>http://localhost:1313/research/neuro-diseases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/neuro-diseases/</guid>
+      <description>Applying tractometry to characterize white matter degeneration in Alzheimer&amp;rsquo;s disease, mapping how amyloid, tau, and APOE pathology reshape fiber tract microstructure across large multi-site cohorts.</description>
+      
+    </item>
+    
+    <item>
       <title>Data Harmonization</title>
       <link>http://localhost:1313/research/harmonization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/research/harmonization/</guid>
-      <description>Developing computational methods to remove scanner-specific biases and harmonize multi-site neuroimaging datasets.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/harmonization/featured.png" />
-    </item>
-    
-    <item>
-      <title>Image Registration</title>
-      <link>http://localhost:1313/research/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <description>Integrating ComBat harmonization into the BUAN tractometry pipeline to correct for multi-site and multi-scanner variability in diffusion MRI, boosting statistical power for disease detection.</description>
       
-      <guid>http://localhost:1313/research/registration/</guid>
-      <description>Advanced algorithms for precise spatial alignment of brain images across different subjects and modalities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/registration/featured.png" />
     </item>
     
   </channel>

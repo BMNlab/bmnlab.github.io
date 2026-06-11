@@ -1,4 +1,4 @@
-{{ $pubs := hugo.Data.publications }}
+{{ $pubs := site.Data.publications }}
 {{ if not $pubs }}
   <p><em>Publication data not found. Run <code>python3 scripts/fetch_publications.py</code> to generate it.</em></p>
 {{ else }}

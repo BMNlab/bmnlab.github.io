@@ -24,12 +24,6 @@ enableEmoji = true
 [imaging]
   anchor = 'Center'
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
-
 [sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
@@ -67,3 +61,9 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
