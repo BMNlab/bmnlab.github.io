@@ -43,6 +43,11 @@ We developed a novel framework combining BUAN tractometry with a **symmetric HCP
 - The same tracts showing early asymmetry in MCI demonstrate broader, stronger effects in full dementia
 - AxD and MD show the strongest group-level distinctions between healthy controls and neurodegenerative populations
 
+<div style="text-align:center; margin:1.5rem 0 0.5rem;">
+  <img src="Neurodegenerative_Fig.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Along-tract diffusion profiles across white matter bundles in Alzheimer's Disease, revealing spatially localized microstructural abnormalities associated with amyloid burden, tau pathology, and APOE genotype.</em></p>
+</div>
+
 ## Publications
 
 Chandio, B. Q., Villalon-Reina, J. E., Nir, T. M., Thomopoulos, S. I., Feng, Y., Benavidez, S., Jahanshad, N., Harezlak, J., Garyfallidis, E., & Thompson, P. M. (2024). **Amyloid, Tau, and APOE in Alzheimer's Disease: Impact on White Matter Tracts.** *bioRxiv*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11326207/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11326207/)

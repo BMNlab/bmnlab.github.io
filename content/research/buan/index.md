@@ -25,17 +25,22 @@ BUAN operates as an end-to-end pipeline with four tightly integrated stages:
 Fiber bundles are segmented from whole-brain tractography using atlas-based RecoBundles, producing subject-specific white matter tracts across 30+ anatomically defined pathways (e.g., corticospinal tract, arcuate fasciculus, inferior fronto-occipital fasciculus).
 
 **2. Along-Tract Profiling**  
-Each bundle is resampled to a fixed number of equidistant points along its length. At each point, scalar MRI metrics are sampled — including:
+Each bundle is divided into **N** segments along its trajectory. Streamline points are assigned to segments based on their distance to the atlas bundle centroid, establishing anatomical correspondence across subjects, groups, and populations. At each point, scalar MRI metrics are sampled — including:
 - **Fractional Anisotropy (FA)** — fiber organization and myelination
 - **Mean Diffusivity (MD)** — overall water diffusion magnitude
 - **Radial Diffusivity (RD)** — diffusion perpendicular to axons
 - **Axial Diffusivity (AD)** — diffusion parallel to axons
 
 **3. Shape Analysis**  
-Bundle geometry is quantified using streamline-based distances (MDF — minimum average direct-flip distance), enabling comparison of tract shape, extent, and spatial distribution between subjects and groups.
+Bundle geometry is quantified using a streamline-based bundle adjacency metric, enabling comparison of tract shape across subjects and groups. Pairwise bundle similarities are used to construct a bundle-shape network that facilitates quality control and identification of anatomical outliers.
 
 **4. Population-Level Statistics**  
 Linear models and non-parametric tests are applied point-by-point along each bundle. Results are corrected for multiple comparisons and projected back onto the 3D tract geometry for direct anatomical visualization.
+
+<div style="text-align:center; margin:1.5rem 0 0.5rem;">
+  <img src="BUAN_Fig.png" style="width:95%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BUAN pipeline: atlas-based bundle extraction → along-tract scalar profiling via bundle assignment maps → population-level statistical comparison.</em></p>
+</div>
 
 ## Applications
 
@@ -62,6 +67,8 @@ Chandio, B. Q., Risacher, S. L., Pestilli, F., Bullock, D., Yeh, F.-C., Koudoro,
 
 ## Code & Integration
 
-- **DIPY implementation:** [dipy.org/examples/bundle_analytics](https://dipy.org)
+- **Bundle Shape Similarity Score:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_shape_similarity.html)
+- **Bundle Assignment Maps Creation:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/bundle_assignment_maps.html)
+- **Bundle Profiles:** [docs.dipy.org](https://docs.dipy.org/stable/examples_built/streamline_analysis/buan_bundle_profiles.html)
 - **GitHub (DIPY):** [github.com/dipy/dipy](https://github.com/dipy/dipy)
 - Fully open-source under BSD license — no commercial dependencies
