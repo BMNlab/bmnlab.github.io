@@ -32,8 +32,8 @@ A controllable regularization parameter **λ** lets users tune the degree of def
 - **λ < 0.001** → full deformation, maximizing bundle overlap (for shape difference quantification)
 
 <div style="text-align:center; margin:1.5rem 0 0.5rem;">
-  <img src="bw_fig1.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
-  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BundleWarp pipeline: input bundles → affine alignment → iterLAP correspondence → mlCPD nonlinear deformation.</em></p>
+  <img src="BW_Fig.png" style="width:95%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BundleWarp pipeline: input bundles → affine alignment → iterLAP streamline correspondence → mlCPD nonlinear deformation.</em></p>
 </div>
 
 ## Validation
@@ -42,8 +42,8 @@ A controllable regularization parameter **λ** lets users tune the degree of def
 **Scale:** 1,728 bundle pairs across 27 white matter tract types, each registered to HCP-842 atlas bundles
 
 <div style="text-align:center; margin:1.5rem 0 0.5rem;">
-  <img src="bw_shape.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
-  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Along-tract shape profiles derived from BundleWarp deformation fields, enabling fine-grained tractometry.</em></p>
+  <img src="BW_Morphometry_Fig.png" style="width:95%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BundleWarp morphometry: deformation field magnitudes quantify along-tract shape differences between subjects, enabling fine-grained tractometry and bundle comparison.</em></p>
 </div>
 
 ## Applications
@@ -60,5 +60,5 @@ Published as: **BundleWarp: Enhancing white matter tractometry and morphometry w
 
 ## Code
 
-- **GitHub:** [github.com/BramshQamar/BundleWarp](https://github.com/BramshQamar/BundleWarp)
 - **DIPY integration:** [dipy.org](https://docs.dipy.org/stable/examples_built/registration/bundlewarp_registration.html)
+- **GitHub (DIPY):** [github.com/dipy/dipy](https://github.com/dipy/dipy)
