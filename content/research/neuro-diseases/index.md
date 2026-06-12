@@ -33,7 +33,7 @@ We applied BUAN tractometry to 3D diffusion MRI from **730 ADNI3 participants** 
 
 <div style="text-align:center; margin:1.5rem 0 0.5rem;">
   <img src="Neurodegenerative_Fig1.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
-  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Along-tract diffusion profiles across 38 white matter bundles in 730 ADNI3 participants, showing the differential impact of amyloid burden, tau pathology, and APOE ε4 genotype on FA, MD, AxD, and RD.</em></p>
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Along-tract p-value profiles and 3D tract visualizations comparing APOE ε4 vs. ε3 (top) and APOE ε2 vs. ε3 (bottom) white matter microstructural differences across spinothalamic, frontopontine, longitudinal, and uncinate tracts in MD, AxD, and FA.</em></p>
 </div>
 
 ### Amyloid Vulnerability Across Diverse Populations
@@ -42,7 +42,7 @@ In a larger multi-cohort study (**1,908 participants**: ADNI3 + HABS-HD), we inv
 
 <div style="text-align:center; margin:1.5rem 0 0.5rem;">
   <img src="Neurodegenerative_Fig2.png.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
-  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Tract-specific amyloid vulnerability maps derived from BUAN tractometry across 1,908 participants (ADNI3 + HABS-HD), identifying white matter pathways most sensitive to early amyloid pathology across diverse racial and ethnic groups.</em></p>
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BUAN tractometry visualizations of the 10 white matter bundles showing the strongest tau-related microstructural signals detected by mean diffusivity (MD), with red segments indicating significant effects (p < 0.05).</em></p>
 </div>
 
 ### Hemispheric White Matter Asymmetry in AD
@@ -55,7 +55,7 @@ We developed a novel framework combining BUAN tractometry with a **symmetric HCP
 
 <div style="text-align:center; margin:1.5rem 0 0.5rem;">
   <img src="Neurodegenerative_Fig3.png" style="width:92%; border-radius:8px; box-shadow:0 4px 16px rgba(0,0,0,0.1);">
-  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>Segment-wise hemispheric asymmetry profiles across homologous fiber pathways in 1,215 ADNI participants, showing progressive lateralization of MD and AxD abnormalities from MCI to dementia.</em></p>
+  <p style="font-size:0.82rem; color:#666; margin:0.4rem 0 0;"><em>BUAN tractometry maps comparing localized amyloid and tau associations across 10 white matter bundles, with tau showing stronger and more widespread microstructural effects than amyloid across MD, AxD, and RD.</em></p>
 </div>
 
 ## Publications
