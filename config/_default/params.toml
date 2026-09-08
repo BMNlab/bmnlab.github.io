@@ -27,7 +27,10 @@ disableTextInHeader = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultSocialImage = "img/bmn-logo.png" # used as default for social media sharing (Open Graph and Twitter)
+
+# SEO: descriptive <title> for the home page (keep the lab name + university in it)
+seoTitle = "Brain Mapping & NeuroImaging Lab | West Virginia University"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
@@ -177,7 +180,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # globalWidgetPosition = "right"
 
 [verification]
-  # google = ""
+  # google = "" # paste the token from Search Console -> Settings -> Ownership verification -> HTML tag
   # bing = ""
   # pinterest = ""
   # yandex = ""

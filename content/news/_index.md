@@ -2,6 +2,7 @@
 title: "News"
 layout: "list"
 summary: " "
+description: "News and updates from the Brain Mapping & NeuroImaging Lab at West Virginia University."
 cascade:
   layout: "compact"
   showDate: true

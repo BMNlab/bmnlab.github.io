@@ -1,0 +1,113 @@
+{{ if .IsHome -}}
+  {{/* Local override: richer org + person structured data so Google can disambiguate
+       the lab, its university affiliation, and its director. */}}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["Organization", "ResearchOrganization"],
+    "@id": "{{ site.Home.Permalink }}#organization",
+    "name": "Brain Mapping & NeuroImaging Lab",
+    "alternateName": ["BMN Lab", "Brain Mapping and NeuroImaging Lab"],
+    "url": {{ site.Home.Permalink | safeURL }},
+    {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+    "logo": "{{ (absURL "img/bmn-logo.png") }}",
+    "parentOrganization": {
+      "@type": "CollegeOrUniversity",
+      "name": "West Virginia University",
+      "url": "https://www.wvu.edu/"
+    },
+    "department": {
+      "@type": "Organization",
+      "name": "Department of Chemical and Biomedical Engineering, Benjamin M. Statler College of Engineering and Mineral Resources"
+    },
+    "member": {
+      "@type": "Person",
+      "@id": "{{ site.Home.Permalink }}#director",
+      "name": "Bramsh Qamar Chandio",
+      "jobTitle": "Assistant Professor & Director",
+      "url": "https://directory.statler.wvu.edu/faculty-staff-directory/bramish-qamar-chandio",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "West Virginia University"
+      }
+    },
+    "knowsAbout": [
+      "Diffusion MRI",
+      "White matter tractography",
+      "Tractometry",
+      "Brain connectivity",
+      "Computational neuroimaging",
+      "Data harmonization",
+      "Machine learning for neuroimaging"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "{{ site.Home.Permalink }}#website",
+    "name": "{{ .Site.Title | safeJS }}",
+    {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+    "url": {{ site.Home.Permalink | safeURL }},
+    "publisher": { "@id": "{{ site.Home.Permalink }}#organization" }
+  }
+  </script>
+{{ else }}
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
+    "name": "{{ .Title | safeJS }}",
+    "headline": "{{ .Title | safeJS }}",
+    {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
+    {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+    "url" : {{ .Permalink }},
+    "author" : {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author.name | safeJS }}"
+    },
+    {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
+    {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .ExpiryDate }}"expires": "{{ .Format $iso8601 }}",{{ end }}
+    {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
+    {{ if .Keywords }}
+    {{ with .Keywords }}"keywords": {{ . }},{{ end }}
+    {{ else }}
+    {{ with .Params.tags }}"keywords": {{ . }},{{ end }}
+    {{ end }}
+    "mainEntityOfPage": "true",
+    "wordCount": "{{ .WordCount }}"
+  }{{ if site.Params.enableStructuredBreadcrumbs | default false }},
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- $position := 0 -}}
+      {{- range .Ancestors -}}
+        {{- if not .IsHome -}}
+          {{- $position = add $position 1 -}}
+          {
+            "@type": "ListItem",
+            "position": {{ $position }},
+            "name": "{{ .Title }}",
+            "item": {{ .Permalink }}
+          },
+        {{- end -}}
+      {{- end -}}
+      {{- $position = add $position 1 -}}
+      {
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title }}",
+        "item": {{ .Permalink }}
+      }
+    ]
+  }{{ end }}]
+  </script>
+{{ end }}

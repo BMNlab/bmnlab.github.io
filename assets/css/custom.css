@@ -90,6 +90,20 @@
   color: #b06869;
 }
 
+/* Director / department line */
+.bmn-hero-affil-full {
+  font-size: 0.95rem;
+  color: var(--bmn-navy);
+  font-weight: 600;
+  line-height: 1.6;
+  max-width: 620px;
+  margin: 0 0 16px;
+}
+
+.dark .bmn-hero-affil-full {
+  color: #cbd5e1;
+}
+
 /* Tagline */
 .bmn-hero-tagline {
   font-size: 1.07rem;
