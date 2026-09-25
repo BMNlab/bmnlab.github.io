@@ -9,7 +9,6 @@ Members of the BMN Lab attended the [2026 NIH BRAIN Initiative Conference](https
 ### About the conference
 The BRAIN Initiative Conference is the annual gathering of the NIH Brain Research Through Advancing Innovative Neurotechnologies® community. It brings together grant awardees, NIH staff, and leaders from the Initiative's federal and non-federal partners to share the latest scientific developments and discuss research priorities for technology-driven neuroscience.
 
-### Our experience
 We presented two posters:
 
 - **C094** – AlongTractComBat: Tract-specific harmonization for multi-site diffusion MRI tractometry analysis

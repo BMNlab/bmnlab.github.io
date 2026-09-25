@@ -8,4 +8,4 @@ The BMN Lab has received a **WVCTSI JumpStart Grant** from the West Virginia Cli
 
 Tractometry analyzes diffusion MRI along the length of individual white matter bundles, which lets us look at where within a tract microstructure changes rather than averaging over the whole tract. The funding will support the development of imaging biomarkers for Alzheimer's disease, building on our [neurodegenerative disease](/research/neuro-diseases/) and [data harmonization](/research/harmonization/) research.
 
-We ae grateful for WVCTSI for the support.
+We are grateful for WVCTSI for the support.
